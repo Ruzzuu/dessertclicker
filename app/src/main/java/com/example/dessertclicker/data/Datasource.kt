@@ -26,13 +26,13 @@ object Datasource {
     val dessertList = listOf(
         Dessert(R.drawable.cupcake, 5, 0, R.string.cupcake),
         Dessert(R.drawable.donut, 10, 5, R.string.donut),
-        Dessert(R.drawable.eclair, 15, 20, R.string.eclair),
-        Dessert(R.drawable.gingerbread, 50, 100, R.string.gingerbread),
-        Dessert(R.drawable.honeycomb, 100, 200, R.string.honeycomb),
-        Dessert(R.drawable.kitkat, 2000, 2000, R.string.kitkat),
-        Dessert(R.drawable.lollipop, 3000, 4000, R.string.lollipop),
-        Dessert(R.drawable.marshmallow, 4000, 8000, R.string.marshmallow),
-        Dessert(R.drawable.nougat, 5000, 16000, R.string.nougat),
-        Dessert(R.drawable.oreo, 6000, 20000, R.string.oreo)
+        Dessert(R.drawable.eclair, 15, 15, R.string.eclair),
+        Dessert(R.drawable.gingerbread, 50, 25, R.string.gingerbread),
+        Dessert(R.drawable.honeycomb, 100, 35, R.string.honeycomb),
+        Dessert(R.drawable.kitkat, 2000, 40, R.string.kitkat),
+        Dessert(R.drawable.lollipop, 3000, 50, R.string.lollipop),
+        Dessert(R.drawable.marshmallow, 4000, 65, R.string.marshmallow),
+        Dessert(R.drawable.nougat, 5000, 75, R.string.nougat),
+        Dessert(R.drawable.oreo, 6000, 100, R.string.oreo)
     )
 }
