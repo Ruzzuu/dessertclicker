@@ -24,6 +24,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DessertClicker"
         tools:targetApi="33">
+        <activity android:name=".SecondActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true"

@@ -20,4 +20,20 @@
     <string name="share">Share</string>
     <string name="share_text">I\'ve clicked %1$d Desserts for a total of $%2$d #AndroidDessertClicker</string>
     <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="cupcake">Cupcake</string>
+    <string name="donut">Donut</string>
+    <string name="cookie">Cookie</string>
+    <string name="brownie">Brownie</string>
+    <string name="eclair">Eclair</string>
+    <string name="frozen_yogurt">Frozen Yogurt</string>
+    <string name="gingerbread">Gingerbread</string>
+    <string name="honeycomb">Honeycomb</string>
+    <string name="ice_cream_sandwich">Ice Cream Sandwich</string>
+    <string name="jelly_bean">Jelly Bean</string>
+    <string name="kitkat">KitKat</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="marshmallow">Marshmallow</string>
+    <string name="nougat">Nougat</string>
+    <string name="oreo">Oreo</string>
+    <string name="pie">Pie</string>
 </resources>
